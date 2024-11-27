@@ -27,3 +27,4 @@
 ### How to run Testcase parallel ?
  - pytest -n auto tests/test/vwoLoginTests/test_vwo_login.py
 
+![allure_screenshot](https://github.com/user-attachments/assets/211c8a2d-cad0-4eea-8ca4-531d0baedf5f)
